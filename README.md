@@ -20,7 +20,7 @@ This is a simple cab booking application built with Java 17 and Spring Boot. The
 
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/ShivanshuDagur/Cab-Booking-Assignment.git>
+   git clone https://github.com/ShivanshuDagur/Cab-Booking-Assignment.git
    cd cabbooking
    ```
 
